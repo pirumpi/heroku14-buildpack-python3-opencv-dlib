@@ -1,0 +1,6 @@
+Flask
+gunicorn
+bson
+opencv-python
+face_recognition
+numpy
